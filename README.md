@@ -21,3 +21,5 @@
 
 
 <img src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="fun gif programmer" width=260 height=140>
+
+<!-- https://www.invertexto.com/emojis-para-copiar   <<<< Link de emojis para copiar, não sei se permitido deixar exposto, então está no comentário-->
