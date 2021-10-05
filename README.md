@@ -12,8 +12,9 @@
 * 💬 Ask me about my life, what i need, what i can do and what i want for my life.
 
 <!--gif de um programador focado-->
-  ![garoto focado](https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-  <img height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgomes92&theme=black">
+  <img width="360px" src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+  
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgomes92&theme=black">
 
 <!--Aqui se destaca as habilidades técnicas-->
 ### 🔆 My Hard Skills
