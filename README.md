@@ -19,22 +19,32 @@
 ### 🔆 My Hard Skills
 
 <div> 
-  <img width="8%" src="https://pics.freeicons.io/uploads/icons/png/9529849461536080157-512.png"/>
-  <img width="8%" src="https://pics.freeicons.io/uploads/icons/png/16738931111536080149-512.png"/>
-  <img width="8%" src="https://pics.freeicons.io/uploads/icons/png/5616045581536080151-512.png"/>
+  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/88/000000/external-html-file-file-type-justicon-lineal-color-justicon.png"/>
+  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/88/000000/external-css-file-file-type-justicon-lineal-color-justicon.png"/>
+  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/88/000000/external-js-file-file-type-justicon-lineal-color-justicon.png"/>
+  <img src="https://img.icons8.com/color/88/000000/github--v3.png"/>
+  <img src="https://img.icons8.com/color/88/000000/windows-10.png"/>
+  <img src="https://img.icons8.com/color/88/000000/linux--v1.png"/>
+  <p>
+  
+  * English Language:
+    
+  - [ ] Basic
+  - [x] Intermediary
+  - [ ] Advanced
+  
+  #### 🔆 I've been learning and praticing about (Estou aprendendo e praticando)
+  <img src="https://img.icons8.com/color/88/000000/vue-js.png"/>
+  <img src="https://img.icons8.com/color/88/000000/angularjs.png"/>
+  <img src="https://img.icons8.com/officel/88/000000/react.png"/>
+  
 </div>
 
 <!--Aqui se destaca as habilidades comportamentais-->
 ### 🔆 My Soft Skills
 
 <div>
-  
-  - [x] this option | - [x] this option
-  - [x] this option | - [x] this option
-  - [x] this option | - [x] this option
-  - [x] this option | - [x] this option
-  - [x] this option | - [x] this option
-  - [x] this option | - [x] this option
+
   
 </div>
 
@@ -42,9 +52,10 @@
 ### 🔆 My hobby
 
 <div>
-  <img src="https://img.icons8.com/doodle/50/000000/controller--v1.png"/>
-  <img src="https://img.icons8.com/clouds/50/000000/xbox-app.png"/>
-  <img src="https://img.icons8.com/doodle/50/000000/super-mario.png"/>
+  <img src="https://img.icons8.com/external-ddara-lineal-color-ddara/70/000000/external-gamer-professions-ddara-lineal-color-ddara.png"/>
+  <img src="https://img.icons8.com/doodle/70/000000/controller--v1.png"/>
+  <img src="https://img.icons8.com/clouds/70/000000/xbox-app.png"/>
+  <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/70/000000/external-movie-cinema-kiranshastry-lineal-color-kiranshastry-2.png"/>
 </div>
 
 ### 🔆 My Social Media (Contato)
