@@ -69,7 +69,7 @@
   ➡ [Linkedin](https://www.linkedin.com/in/daniel-ferreira-12884aa1/)
     <p>
   <img src="https://img.icons8.com/office/64/000000/gmail-login.png"/>
-  ➡ [dnlferreirasg@hotmail.com](www.gmail.com)
+  ➡ [dnlferreira006@hotmail.com](www.gmail.com)
    <p>
 </div>
       
