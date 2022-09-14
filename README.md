@@ -2,7 +2,7 @@
 # 👨‍💻 Daniel Gomes - RJ 🌍🏖
 
 ```
-----------(IN PROGRESS - studying, praticing and learning until became a good developer)----------
+----------(IN PROGRESS - studing, praticing and learning until became a good developer)----------
 ```
 <h2>📚 Estudande de Gestão Tecnologia da Informação.</h2>
 <details><summary>:bowtie: Clique para me conhecer melhor</summary>
