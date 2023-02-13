@@ -1,6 +1,9 @@
 <div align="center">
 <h3>----------Desenvolvedor Backend .NET C#----------</h3>
 </div>
+<div align="center">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgomes92&layout=compact"> <!--hspace="90"-->
+</div>
 <br>
 <h3> 📌 Tecnologias & Ferramentas </h3>
 <div>
@@ -16,9 +19,6 @@
 </div>
 
 <br>
-<div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgomes92&layout=compact"> <!--hspace="90"-->
-</div>
 
 <div>
  <h3> 📌 Linguas Estrangeiras: </h3>
@@ -38,7 +38,7 @@
 -->
 
 <br>
-<div>
+<div align="center">
   <a href="https://www.instagram.com/daniellfsg" target="_blank">
   <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/35/000000/external-instagram-social-media-justicon-lineal-color-justicon.png" hspace="15"/>
   
