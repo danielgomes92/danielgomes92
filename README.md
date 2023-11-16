@@ -2,38 +2,86 @@
 <h3>----------Desenvolvedor Backend .NET C#----------</h3>
 </div>
 
-### 📌 Tecnologias & Ferramentas
+---
+<div align="center">
 
-<div>
-  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/35/000000/external-html-file-file-type-justicon-lineal-color-justicon.png" hspace="15"/>
-  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/35/000000/external-css-file-file-type-justicon-lineal-color-justicon.png" hspace="15"/>
-  <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/35/000000/external-js-file-file-type-justicon-lineal-color-justicon.png" hspace="15"/>
-  <img src="https://allansouza-freelancer.netlify.app/img/csharp_original_logo_icon_146578.png" width="35" hspace="15"/>
-  <img src="https://brandslogos.com/wp-content/uploads/thumbs/visual-studio-code-logo-vector.svg" width="35" hspace="15"/>
-  <img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" width="35" hspace="15"/>
-  <img src="https://img.icons8.com/color/35/000000/github--v3.png" hspace="15"/>
-  <img src="https://img.icons8.com/color/35/000000/windows-10.png" hspace="15"/>
+```Frontend```
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react" />
+  </a>
+</p>
+
+<div align="center">
+
+```Backend```
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,js,ts,nodejs" />
+  </a>
+</p>
+<div align="center">
+
+```Banco de Dados```
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongo,mysql" />
+  </a>
+</p>
+<div align="center">
+
+```Ferramentas```
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,docker,selenium,visualstudio,vscode" />
+  </a>
+</p>
+<div align="center">
+
+```Cloud```
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp" />
+  </a>
+</p>
+
+---
+<div align="center">
+  
+### 📌 GitHub status
+
+
+[![Status](https://github-readme-stats.vercel.app/api?username=danielgomes92&theme=transparent&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=FFF&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Usages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielgomes92&layout=compact&bg_color=000&border_color=E94D5F&title_color=E94D5F&text_color=FFF)](https://github.com/anuraghazra/convoychat)
 </div>
 
- ### 📌 GitHub status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielgomes92&theme=transparent&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=FFF&hide_title=true)
-<br>
-
-### 📌 Linguagens
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielgomes92&layout=compact&bg_color=000&border_color=E94D5F&title_color=E94D5F&text_color=FFF)
-
+---
+<div align="center">
 
 ### 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/daniel-gomes-12884aa1/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/daniellfsg/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)](https://github.com/danielgomes92)
+</div>
+
+<div align="center">
 
 ### 📌 Linguas Estrangeiras: </h3>
   
-  * Inglês
-  >Básico - Intermediário
+```- Inglês - Intermediário```
 
+```- Francês - Básico```
+
+<img src="https://www.svgrepo.com/show/225364/brazil.svg"  width="50px"/>
+<img src="https://www.svgrepo.com/show/225584/united-states.svg"  width="50px"/>
+<img src="https://www.svgrepo.com/show/225414/france.svg"  width="50px"/>
+</div>
 <!--Aqui se destaca o hobby do dia a dia
 <h3> 🔆 Meu hobby </h3>
 <div>
