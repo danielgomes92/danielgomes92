@@ -5,48 +5,11 @@
 ---
 <div align="center">
 
-```Frontend```
+```TECNOLOGIAS```
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react" />
-  </a>
-</p>
-
-<div align="center">
-
-```Backend```
-</div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,ts,nodejs" />
-  </a>
-</p>
-<div align="center">
-
-```Banco de Dados```
-</div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongo,mysql" />
-  </a>
-</p>
-<div align="center">
-
-```Ferramentas```
-</div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,docker,selenium,visualstudio,vscode" />
-  </a>
-</p>
-<div align="center">
-
-```Cloud```
-</div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,cs,sqlite,mysql,git,postman,docker,visualstudio,vscode,aws,gcp" />
   </a>
 </p>
 
